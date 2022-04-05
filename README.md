@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jorge Argenis</h1>
-<h3 align="center">A graduate of computer science, lover of cibersecurity and Algotimth</h3>
+<h3 align="center">A graduate of computer science, lover of cibersecurity and Algotithm</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=argenis616&label=Profile%20views&color=0e75b6&style=flat" alt="argenis616" /> </p>
 
